@@ -1,6 +1,6 @@
 #RxJava2Consumers
 
-Provides a copy of the interfaces that were moved from RxJava 2 into RxJava2Extensions.
+Provides a copy of the interfaces that were moved from RxJava 2 into [RxJava2Extensions](https://github.com/akarnokd/RxJava2Extensions#extra-functional-interfaces).
 
 ## Usage
 
