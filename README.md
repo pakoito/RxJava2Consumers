@@ -1,4 +1,4 @@
-#RxJava2Consumers
+# RxJava2Consumers
 
 Provides a copy of the interfaces that were moved from RxJava 2 into [RxJava2Extensions](https://github.com/akarnokd/RxJava2Extensions#extra-functional-interfaces).
 
@@ -6,7 +6,7 @@ Provides a copy of the interfaces that were moved from RxJava 2 into [RxJava2Ext
 
 The difficulty here is to provide a version of the interfaces that is interchangeable with the RxJava2Extensions ones but do not collide in case both dependencies are declared for the same project. It relies on maven resolution for this.
 
-##Distribution
+## Distribution
 
 Add as a dependency to your `build.gradle`
 ```groovy
@@ -39,7 +39,7 @@ or to your `pom.xml`
 </dependency>
 ```
 
-##License
+## License
 
 Copyright (c) pakoito 2017
 
